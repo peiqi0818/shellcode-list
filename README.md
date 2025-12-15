@@ -1,5 +1,8 @@
 # shellcode-list
-shellcode-demo集合:  
+
+**本项目只适用于教育和学习目的，不得用于其他用途。**  
+
+**shellcode-demo集合:**  
 Windows X86:  
 shellcode-弹窗  
 shellcode远程下载winhttp  
