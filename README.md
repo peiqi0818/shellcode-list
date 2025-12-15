@@ -1,6 +1,6 @@
 # shellcode-list
-shellcode-demo集合：
-Windows X86:
+shellcode-demo集合:  
+Windows X86:  
 shellcode-弹窗
 shellcode远程下载winhttp
 shellcode远程下载wininet
