@@ -18,4 +18,5 @@ shellcode-Hello World
 shellcode-远程下载socket  
 shellcode-反向TCP  
 
+项目教程：https://www.peiqiblog.com/tag/shellcode/
 
